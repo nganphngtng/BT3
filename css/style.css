@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer.BT3 {
+    width: 900px;
+    padding: 20px;
+    background: #111;
+}
+.flex{
+    display: flex;
+}
+footer.BT3 .about {
+    width: 60%;
+    margin-right: 20px;
+    color: gray;
+}
+div {
+    display: block;
+}
+footer.BT3 h2 {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    border-bottom: 1px solid #666;
+}
+footer.BT3 ul li {
+    margin-bottom: 10px;
+    color: gray;
+}
+.j-between{
+    justify-content: space-between;
+}
+.links{
+    margin: 30px;
+    color: gray;  
+}
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+    
